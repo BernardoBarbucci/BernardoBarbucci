@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [Boolean Trainee](https://boolean.careers/corso/full-stack-web-development)
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **Typescript and React**
 
 - 💬 Contact me here -> **bernardobarbucci@gmail.com**
 
