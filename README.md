@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bernardo Barbucci</h1>
 <h3 align="center">I'm a Jr Full Stack Web Developer</h3>
 
-- 🔭 I'm currently working on [Boolean Trainee](https://boolean.careers/corso/full-stack-web-development)
-
 - 🌱 I’m currently learning **Typescript and React**
 
 - 💬 Contact me here -> **bernardobarbucci@gmail.com**
